@@ -123,6 +123,8 @@ console.log("isOpen : ", isOpen, "isClosed : ", isClosed);
 
 Testez et regardez ce qui s'affiche dans la console. En déduire les modifications à faire au code pour qu'il alternativement ouvre et ferme le menu.
 
+On devrait voir les valeurs de isOpen et de isClosed s'afficher dans la console normalement.
+
 **Faire commit** : ouverture/fermeture menu.
 
 ## Ajout classe `nosrcoll` à `body`
