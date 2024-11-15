@@ -2,6 +2,8 @@
 - prénom : NEDIM
 - URL Netlify : https://hilarious-longma-792438.netlify.app/
 
+# Je ne sais pas pourquoi, mais mon icône pour le menu est au milieu, sinon tout le reste fonctionne correctement.
+
 # Travail
 
 N'oublier pas votre nom, prénom et l'URL de publication Netlify...
